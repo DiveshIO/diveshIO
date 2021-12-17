@@ -9,9 +9,10 @@
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/nekoism/github-readme-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nekoism)](https://github.com/nekoism/github-readme-streak-stats)
 
  
  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/nekoism/github-readme-stats)
