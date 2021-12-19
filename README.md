@@ -2,7 +2,8 @@
 <br>
 <!-- Languages i use: Javascript, Java,C++,C#,Python and Learning go -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nekoism.nekoism)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nekoism.nekoism" alt="Jokes Card" />
+
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=nekoism&theme=monokai&margin-w=15)
 
 ### Github Status
@@ -16,4 +17,4 @@
 
  
  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/nekoism/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/nekoism/github-readme-stats) -->
