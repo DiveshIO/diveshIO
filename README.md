@@ -4,17 +4,14 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nekoism.nekoism" alt="Jokes Card" />
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=nekoism&theme=monokai&margin-w=15)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=nekoism&theme=monokai&margin-w=15)
 
 ### Github Status
 [![github stats](https://github-readme-stats.vercel.app/api?username=nekoism&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/nekoism/github-readme-stats)
 
 ### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/nekoism/github-readme-stats) 
 
-
-
+#Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nekoism)](https://github.com/nekoism/github-readme-streak-stats)
 
- 
- -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/nekoism/github-readme-stats) -->
