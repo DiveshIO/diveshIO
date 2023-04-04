@@ -12,4 +12,3 @@
 ### Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nekoism)](https://github.com/nekoism/github-readme-streak-stats)
 
-https://discord.com/users/692389103584673802
