@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
 <p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism)](https://github.com/anuraghazra/github-readme-stats)
+ # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekoism)]
 
 
 
