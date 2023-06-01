@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekoism&" alt="nekoism" /></p>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
 
